@@ -1,0 +1,12 @@
+{
+    "window.zoomLevel": 1,
+    "explorer.confirmDelete": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "/client/dist/css"
+        }
+    ]
+}
