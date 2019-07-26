@@ -1,5 +1,7 @@
 {
-    "mongoURI": "mongodb+srv://Dan:jUnwyMCn654zsrqf@portfolio-tkf3n.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://dan:M9HfDFsvoy1Oegu7@cluster0-m1f64.mongodb.net/test?retryWrites=true&w=majority",
+
+    "jwtsecret": "secrettoken"
 }
 
     

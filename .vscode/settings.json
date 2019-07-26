@@ -8,5 +8,8 @@
             "extensionName": ".min.css",
             "savePath": "/client/dist/css"
         }
+    ],
+    "cSpell.words": [
+        "destructure"
     ]
 }
