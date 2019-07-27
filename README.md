@@ -5,7 +5,6 @@ This portfolio showcases my skills as a developer.
 ## Technology Used:
 
 ### Client-Side
-  ![SASS Icon](https://lh3.googleusercontent.com/TVL4GHH76fOf0KBk5piMOCHkzzWDcNvltWMTJv7jTP4RJJyZ-k2dnFiYyoln_-xY-_KtVkiaN2TltwkcT-LEoRvi69aTj6H48lq4JDszDohXrK5ltjGSqLtqrxS6pq9mnudnGo86Kw=w80 "SASS") 
   ![React Icon](https://lh3.googleusercontent.com/VdPyVVFn4J5D3xwI5cMLpUooKuETowUruJAIPnj3pSuxp40HB4AN0up2hJM2d8i1h4TqwBH8D-3DjKDkDn2uhGWosKJhE5PjJIH_QcuB9KurOil8ZjrsS4NiI_eSH13WAHGmoikeag=w100 "REACT")
 
 ### Server-Side
